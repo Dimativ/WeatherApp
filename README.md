@@ -1,2 +1,2 @@
 # WeatherApp
-This is the weather React app pet project 
+This is simply weather app with daily weather
