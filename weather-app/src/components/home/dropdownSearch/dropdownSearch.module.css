@@ -1,0 +1,92 @@
+.wrapper{
+    display: flex;
+    flex-direction: column;
+}
+
+.myInput{
+    width: 59.1666666667vw;
+    height: 2.91666666667vw;
+
+    border: 0;
+    border-radius: 2.70833333333vw;
+
+    margin-top: 3.125vw;
+    margin-left: 3.125vw;
+
+    padding-left: 2.08333333333vw;
+
+    font-family: InterRegular;
+    font-size: 0.83333333333vw;
+    line-height: 0.98958333333vw;
+    letter-spacing: 0.05em;
+
+}
+.myInput::placeholder {
+    font-family: InterRegular;
+    font-size: 0.83333333333vw;
+    line-height: 0.98958333333vw;
+    letter-spacing: 0.05em;
+
+    color: rgba(0, 0, 0, 0.2);
+}
+.myInput:focus {
+    outline: none !important;
+    border: 0;
+}
+.list{
+    overflow: hidden;
+
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+    font-family: InterRegular;
+    font-size: 0.83333333333vw;
+    line-height: 0.98958333333vw;
+    letter-spacing: 0.05em;
+
+    width: 61.1666666667vw;
+
+    margin-left: 3.125vw;
+    margin-top: 1vw;
+
+
+
+    position: relative;
+    list-style-type: none;
+
+    border-radius: 2.70833333333vw;
+}
+.liElem{
+    width: 100%;
+}
+.buttons{
+    text-align:left;
+    width: 100%;
+    border: none;
+    background: none;
+    padding-left: 2.08333333333vw;
+}
+.buttons:hover{
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.searchButton{
+    border: none;
+    background: none;
+
+    position: absolute;
+
+    margin-left: 61.96875vw;
+    margin-top: 3.85416666667vw;
+
+    width: 1.51041666667vw;
+    height: 1.51041666667vw;
+}
+.searchIcon{
+    width: 1.51041666667vw;
+    height: 1.51041666667vw;
+}

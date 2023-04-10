@@ -1,0 +1,158 @@
+.wrapper{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+
+    margin-left: 10.4166666667vw;
+    margin-top: 2.70833333333vw;
+}
+.mainDay{
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+
+    width: 38.1770833333vw;
+    height: 25.2083333333vw;
+
+
+    background: linear-gradient(149.74deg, rgba(26, 75, 102, 0.12) 0%, rgba(7, 31, 45, 0.09) 101.53%);
+    backdrop-filter: blur(45px);
+
+
+    border-radius: 40px;
+}
+.rightMain{
+    margin-left: 2.8125vw;
+    padding-top: 3.4vw;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+
+    box-sizing: border-box;
+
+    width: 38.1770833333vw;
+    height: 25.2083333333vw;
+
+
+    background: linear-gradient(149.74deg, rgba(26, 75, 102, 0.12) 0%, rgba(7, 31, 45, 0.09) 101.53%);
+    backdrop-filter: blur(45px);
+
+
+    border-radius: 40px;
+}
+.leftMain{
+    display: flex;
+    flex-direction: column;
+
+    margin-top: 2.447916666666667vw;
+    margin-left: 2.8125vw;
+}
+.date{
+
+}
+.city{
+    width: 9.270833333333333vw;
+    height: 4.427083333333333vw;
+    margin-top: 0.5208333333333333vw;
+
+
+
+    font-family: InterSemiBold;
+    font-weight: 600;
+    font-size: 3.645833333333333vw;
+    line-height: 4.427083333333333vw;
+
+    letter-spacing: 0.05em;
+
+    color: #54516D;
+}
+.country{
+    margin-top: 0.5208333333333333vw;
+    margin-left: 0.2vw;
+
+    width: 3.229166666666667vw;
+    height: 0.9895833333333333vw;
+
+    font-family: InterLight;
+    font-weight: 300;
+    font-size: 0.8333333333333333vw;
+    line-height: 0.9895833333333333vw;
+    letter-spacing: 0.05em;
+
+    color: #54516D;
+}
+.temperature{
+
+    margin-top: 2.083333333333333vw;
+
+    font-family: InterSemiBold;
+    font-weight: 600;
+    font-size: 3.645833333333333vw;
+    line-height: 4.427083333333333vw;
+
+
+    letter-spacing: 0.05em;
+
+    color: #54516D;
+}
+.etc{
+    display: block;
+    text-align: left;
+
+    margin-left: 0.5vw;
+    margin-top: 1.04166666667vw;
+
+    font-family: InterRegular;
+    font-weight: 400;
+    font-size: 1.04166666667vw;
+    line-height: 1.25vw;
+    letter-spacing: 0.05em;
+
+    color: #54516D;
+}
+.sup{
+    font-size: 3vw;
+
+}
+.span{
+    display: block;
+    text-align: left;
+}
+.weatherImg{
+    margin-left: 0.2vw;
+    width: 4.375vw;
+    height: 4.375vw;
+}
+.rightBlocks{
+    display: flex;
+    flex-direction: column;
+    width: 5.20833333333vw;
+    height: 7.60416666667vw;
+
+    margin-left: 2.08333333333vw;
+
+    background: rgba(139, 135, 170, 0.15);
+    border-radius: 40px;
+}
+.mainImg{
+    position: absolute;
+
+    margin-top: 0.2vw;
+    margin-left: 15.1354166667vw;
+
+    width: 20.8333333333vw;
+    height: 20.8333333333vw;
+}
+
+.weatherHoursText{
+    margin-top: 1.04166666667vw;
+
+    font-family: InterRegular;
+    font-weight: 400;
+    font-size: 1.04166666667vw;
+    line-height: 1.25vw;
+    letter-spacing: 0.05em;
+
+    color: #FFFFFF;
+}
