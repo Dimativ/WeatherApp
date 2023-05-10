@@ -1,0 +1,24 @@
+.wrapper{
+    display: flex;
+    flex-direction: row;
+}
+
+.socialLinks{
+    margin-top: 2.29166666667vw;
+    margin-left: 2.08333333333vw;
+    width: 1.51041666667vw;
+    height: 1.51041666667vw;
+    transition: transform 350ms ease-in-out;
+}
+.socialLinks:hover{
+    transform: scale(1.2);
+}
+
+.socialPics{
+    width: 1.51041666667vw;
+    height: 1.51041666667vw;
+}
+.firstSocialLink{
+    margin-left: 42.03125vw;
+}
+

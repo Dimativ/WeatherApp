@@ -1,0 +1,11 @@
+.wrapper{
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    width: 99vw;
+    height: 9.47916666667vw;
+    background: linear-gradient(149.74deg, rgba(36, 102, 126, 0.5) 0%, rgba(36, 102, 126, 0.5) 101.53%);
+    backdrop-filter: blur(45px);
+    border-radius: 50px 50px 0px 0px;
+}

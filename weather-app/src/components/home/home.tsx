@@ -2,6 +2,7 @@ import style from "./home.module.css"
 import useForecast from "../../hooks/useForecast"
 import Forecast from "./forecast/forecast";
 import Header from "./header/header";
+import Footer from "./footer/footer";
 
 const Home = () => {
     const {term, options, forecast, onInputChange, onOptionSelect, onSubmit} = useForecast()
@@ -13,6 +14,7 @@ const Home = () => {
             {forecast && (
                 <Forecast data={forecast}/>
                 )}
+            <Footer/>
         </div>
     );
 }

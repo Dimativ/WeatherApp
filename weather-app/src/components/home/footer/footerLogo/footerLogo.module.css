@@ -1,0 +1,39 @@
+.wrapper{
+    display: flex;
+    flex-direction: row;
+}
+.cloudImg{
+    margin-left: 45.6770833333vw;
+    margin-top: 2.08333333333vw;
+
+    width: 2.29166666667vw;
+    height: 1.35416666667vw;
+}
+.headerText{
+    margin-left: 0.52083333333vw;
+    margin-top: 2.08333333333vw;
+
+    width: 5.83333333333vw;
+    height: 1.51041666667vw;
+
+
+    font-family: InterRegular;
+    font-weight: 400;
+    font-size: 1.25vw;
+    line-height: 1.51041666667vw;
+    letter-spacing: 0.16em;
+
+    color: #FFFFFF;
+    z-index: 1;
+}
+.star{
+    position: absolute;
+    z-index: 999;
+
+    margin-top: 2.08333333333vw;
+    margin-left: 51.3854166667vw;
+
+
+    width: 1.8vw;
+    height: 1.8vw;
+}
