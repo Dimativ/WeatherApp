@@ -11,4 +11,5 @@ I used React Typescript, because of this variables have typesation. Also i used 
 ### Footer Demo
 ![3](https://github.com/Dimativ/WeatherApp/assets/88792228/71aa1193-9ff0-47e2-ab0a-7b466f44e1f4)
 ### Demo of Scalable
-![4](https://github.com/Dimativ/WeatherApp/assets/88792228/27eb84cb-7585-4b6c-b0e0-4f3e8e5b6000)
+![4](https://github.com/Dimativ/WeatherApp/assets/88792228/05afbc86-c6e8-406a-bf70-3a70b21587ca)
+
