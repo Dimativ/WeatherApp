@@ -1,5 +1,6 @@
 # Weather React Application
 Developed by Dmytro Lytvynenko (с) 2023
+
 This repo contains application which you can use for viewing the weather in the locality, especially humidity, temperature, wind speed. It also shows the temperature for the next 24 hours at the selected location.
 ## Advantages of this application
 I used React Typescript, because of this variables have typesation. Also i used React Hooks and even developed own custom hook.
