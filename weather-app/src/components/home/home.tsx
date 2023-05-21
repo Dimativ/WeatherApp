@@ -4,6 +4,7 @@ import Forecast from "./forecast/forecast";
 import Header from "./header/header";
 import Footer from "./footer/footer";
 
+
 const Home = () => {
     const {term, options, forecast, onInputChange, onOptionSelect, onSubmit} = useForecast()
 
